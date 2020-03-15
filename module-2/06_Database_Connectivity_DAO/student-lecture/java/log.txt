@@ -1,0 +1,2 @@
+2020-02-18T11:42:36.601: insert success: City{id=4082, name='Smallville', countryCode='USA', district='KS', population=42080}
+2020-02-18T11:42:36.620: delete success: 4082

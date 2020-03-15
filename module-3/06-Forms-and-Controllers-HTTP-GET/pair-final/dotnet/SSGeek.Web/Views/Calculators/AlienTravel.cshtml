@@ -1,0 +1,25 @@
+﻿@model SSGeek.Web.Models.AlienTravelModel
+@{
+    ViewData["Title"] = "Alien Travel";
+}
+
+<section class="centeredPanel">
+    <h2>Alien Travel Calculator</h2>
+    <form asp-action="AlienTravelResult" asp-controller="Calculators" method="get">
+
+        <div class="form-field">
+            <label asp-for="AlienPlanet"></label>
+            <select asp-for="AlienPlanet" asp-items="ViewBag.PlanetList"></select>
+        </div>
+        <div class="form-field">
+            <label asp-for="ModeOfTransport"></label>
+            <select asp-for="ModeOfTransport" asp-items="ViewBag.TransportationModes"></select>
+        </div>
+        <div class="form-field">
+            <label asp-for="EarthAgeInYears"></label>
+            <input asp-for="EarthAgeInYears" />
+        </div>
+
+        <button type="submit">Calculate Travel Time</button>
+    </form>
+</section>

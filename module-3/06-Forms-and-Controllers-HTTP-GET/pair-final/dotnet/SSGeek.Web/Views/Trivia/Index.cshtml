@@ -1,0 +1,24 @@
+﻿@model SSGeek.Web.Models.TriviaModel
+@{
+    ViewData["Title"] = "Index";
+}
+
+<section class="centeredPanel">
+    <h2>Space Geek Trivia</h2>
+
+    <form asp-controller="Trivia" asp-action="Index" method="post">
+        <div class="form-field">
+            <label asp-for="Name"></label>
+            <input asp-for="Name" />            
+        </div>
+        <div class="form-field">
+            <label asp-for="SubmittedAnswer"></label>
+            <input type="radio" asp-for="SubmittedAnswer" value="Tom Hanks" /> Tom Hanks
+            <input type="radio" asp-for="SubmittedAnswer" value="Jim Lovell" /> Jim Lovell
+            <input type="radio" asp-for="SubmittedAnswer" value="Neil Armstrong" /> Neil Armstrong                        
+        </div>
+        <button type="submit">Submit!</button>
+    </form>    
+
+</section>
+

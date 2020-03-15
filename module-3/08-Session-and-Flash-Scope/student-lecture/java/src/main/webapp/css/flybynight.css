@@ -1,0 +1,21 @@
+.up {
+	color: green;
+}
+.down {
+	color: red;
+}
+.summaryBlock {
+	display: flex;
+	flex-direction: column;
+	background-color: lightgray;
+	width: 27%;
+	padding: 10px;
+}
+
+.summaryElementHeader {
+	font-weight: bold;
+}
+
+.summaryElement {
+	padding: 10px;
+}

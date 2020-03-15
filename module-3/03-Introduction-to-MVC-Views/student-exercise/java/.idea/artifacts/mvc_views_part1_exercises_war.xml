@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mvc-views-part1-exercises:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>mvc-views-part1-exercises</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="mvc-views-part1-exercises-1.0.war">
+      <element id="artifact" artifact-name="mvc-views-part1-exercises:war exploded" />
+    </root>
+  </artifact>
+</component>

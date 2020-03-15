@@ -1,0 +1,26 @@
+#reviewItem{
+    border: 1px solid gray;
+    margin: auto;
+    padding: 10px;
+}
+
+body{
+    margin: 20px;
+    font-size: 20px;
+    padding: 20px;
+    color: #636666;
+}
+
+h1{
+    font-size: 2rem;
+}
+
+#copy{
+
+    font-size: 1.2rem;
+}
+
+#newReviewLink{
+
+    font-size: 1.5rem;
+}

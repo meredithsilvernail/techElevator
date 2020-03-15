@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mvc-views-part2-lecture:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>mvc-views-part2-lecture</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="mvc-views-part2-lecture-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="mvc-views-part2-lecture:war exploded" />
+    </root>
+  </artifact>
+</component>

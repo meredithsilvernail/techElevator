@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="654bd530-c03a-495f-a513-54a5065b9446" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Chase Java\Workspace\meredith-silvernail\module-1\Capstone\19_Capstone\java\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xld9CjRQA8bcva0kOH5uq5ujph" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="VendingMachineCLI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.VendingMachineCLI" />
+      <module name="m1-java-capstone-vending-machine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VendingMachineCLI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="654bd530-c03a-495f-a513-54a5065b9446" name="Default Changelist" comment="" />
+      <created>1581624462214</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581624462214</updated>
+      <workItem from="1581624470178" duration="4975000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="685" y="93" key="#com.intellij.ide.util.MemberChooser" timestamp="1581628744450">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="685" y="93" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1581628744450" />
+    <state width="1775" height="245" key="GridCell.Tab.0.bottom" timestamp="1581710162031">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1775" height="245" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581710162031" />
+    <state width="1775" height="245" key="GridCell.Tab.0.center" timestamp="1581710162031">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1775" height="245" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581710162031" />
+    <state width="1775" height="245" key="GridCell.Tab.0.left" timestamp="1581710162031">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1775" height="245" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581710162031" />
+    <state width="1775" height="245" key="GridCell.Tab.0.right" timestamp="1581710162031">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1775" height="245" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581710162031" />
+    <state x="513" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1581624479816">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="513" y="252" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581624479816" />
+  </component>
+</project>

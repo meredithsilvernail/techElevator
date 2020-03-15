@@ -1,0 +1,24 @@
+﻿@model SSGeek.Web.Models.ForumPost
+@{
+    ViewData["Title"] = "NewPost";
+}
+
+<section class="centeredPanel">
+    <h2>New Geek Post</h2>
+
+    <form asp-action="NewPost" asp-controller="Forum" method="post">
+        <div class="form-field">
+            <label asp-for="Username"></label>
+            <input asp-for="Username" />            
+        </div>
+        <div class="form-field">
+            <label asp-for="Subject"></label>
+            <input asp-for="Subject" />            
+        </div>
+        <div class="form-field">
+            <label asp-for="Message"></label>
+            <input asp-for="Message" />            
+        </div>
+        <button type="submit">Submit!</button>
+    </form>
+</section>

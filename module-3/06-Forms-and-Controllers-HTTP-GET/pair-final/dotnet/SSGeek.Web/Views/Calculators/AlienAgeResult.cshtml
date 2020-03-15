@@ -1,0 +1,9 @@
+﻿@model SSGeek.Web.Models.AlienAgeModel
+@{
+    ViewData["Title"] = "Alien Age Result";
+}
+
+<section id="calculatorResult" class="centeredPanel">
+    <img src="@Url.Content("~/images/" + Model.AlienPlanet + ".jpg")" />
+    <h2>If you are @Model.EarthAgeInYears years old on planet Earth, then you are @Math.Round(Model.GetAlienAge(), 2) @Model.AlienPlanet years old.</h2>
+</section>

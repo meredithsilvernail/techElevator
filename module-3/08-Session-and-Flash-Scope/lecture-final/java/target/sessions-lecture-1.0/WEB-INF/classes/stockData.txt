@@ -1,0 +1,3 @@
+"F""Ford"9.87 +0.50
+"GM""General Motors"35.60 -0.32
+"FCAU""Fiat Chrysler"13.75 -0.20

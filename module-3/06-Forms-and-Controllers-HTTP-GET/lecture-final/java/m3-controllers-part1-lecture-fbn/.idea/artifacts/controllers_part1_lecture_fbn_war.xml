@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="controllers-part1-lecture-fbn:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>controllers-part1-lecture-fbn</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="controllers-part1-lecture-fbn-1.0.war">
+      <element id="artifact" artifact-name="controllers-part1-lecture-fbn:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="session-exercises:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>session-exercises</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="session-exercises-1.0.war">
+      <element id="artifact" artifact-name="session-exercises:war exploded" />
+    </root>
+  </artifact>
+</component>

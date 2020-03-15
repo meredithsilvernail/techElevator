@@ -1,0 +1,46 @@
+#beerLogo{
+    margin-right: 10px;
+}
+
+#cheersLogo{
+    margin-left: 10px;
+}
+
+body{
+    background-color: lightgray;
+    margin: 20px;
+    font-size: 16px;
+
+}
+
+.jumbotron {
+    background: url(../img/cooler.jpg) fixed center no-repeat;
+    background-size: cover;
+}
+
+.headerText {
+    color: white;
+    padding: 10px;
+    font-size: 3rem;
+    font-weight: bolder;
+
+}
+
+.bg-login-image{
+    background: url("../img/taps.jpg");
+    background-size: cover;
+}
+
+.bg-register-image{
+    background: url("../img/dogGlass.jpg");
+    background-size: cover;
+
+}
+
+.navLinks{
+    font-size: 18px;
+    color: white;
+}
+
+
+
